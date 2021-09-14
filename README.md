@@ -1,5 +1,3 @@
-# Resources For This Course
-
 ## What is a Blockchain?
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
